@@ -1,0 +1,8 @@
+.vagrant/
+node_modules/
+*.zip
+*.img
+*.img.xz
+*.img.bz2
+*.log
+.DS_Store
